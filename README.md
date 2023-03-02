@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](@Michael_0085)
 
 ![Michael-Meneses GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Meneses&show_icons=true&theme=radical)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Meneses)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
