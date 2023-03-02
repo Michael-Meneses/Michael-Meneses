@@ -1,4 +1,5 @@
-## Olá! Eu sou o Michael Meneses! ✋
+
+### Olá! Eu sou o Michael Meneses! ✋
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](michaelfullstack@gmail.com)
 [![Email](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@MichaelFullstack)
@@ -6,7 +7,10 @@
 [![Email](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](michaelfullstack@gmail.com)
 [![Email](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](@Michael_0085)
 
-![Michael-Meneses GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Meneses&show_icons=true&theme=radical)
+![Michael-Meneses GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Meneses&show_icons=true&theme=radical)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Tecnologias que eu uso no meu dia 👨‍💻
 
